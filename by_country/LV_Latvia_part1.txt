@@ -1,8 +1,9 @@
-# 🇱🇻 Latvia — часть 1 | 5 конфигов
-# Обновлено: 2026-03-11 23:17 UTC
+# 🇱🇻 Latvia — часть 1 | 6 конфигов
+# Обновлено: 2026-03-11 23:28 UTC
 
-vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@94.131.104.92:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8&sni=static.rutube.ru#%5B285ms%20AT%20%40vlesstrojan%5D  # 335.2ms  # SC:OK
-vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@lv.vpnhub.shop:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8&sni=static.rutube.ru#%5B315ms%20AT%20%40vlesstrojan%5D  # 342.5ms  # SC:OK
-vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@94.131.104.92:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=static.rutube.ru&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#%5B288ms%20AT%20%40vlesstrojan%5D  # 359.1ms  # SC:OK
-vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22&spx=%2F#%5B588ms%20AT%20%40vlesstrojan%5D  # 459.9ms  # SC:OK
-vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e&spx=%2F#%5B581ms%20AT%20%40vlesstrojan%5D  # 464.9ms  # SC:OK
+vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&sid=f71c22&spx=%2F#%5B588ms%20AT%20%40vlesstrojan%5D  # 350.9ms  # SC:OK
+vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@94.131.104.92:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=static.rutube.ru&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#%5B288ms%20AT%20%40vlesstrojan%5D  # 376.2ms  # SC:OK
+vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@94.131.104.92:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8&sni=static.rutube.ru#%5B285ms%20AT%20%40vlesstrojan%5D  # 378.5ms  # SC:OK
+vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@lv.vpnhub.shop:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8&sni=static.rutube.ru#%5B315ms%20AT%20%40vlesstrojan%5D  # 384.5ms  # SC:OK
+vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e&spx=%2F#%5B581ms%20AT%20%40vlesstrojan%5D  # 403.3ms  # SC:OK
+vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e#%5B487ms%20AT%20%40vlesstrojan%5D  # 452.4ms  # SC:OK
