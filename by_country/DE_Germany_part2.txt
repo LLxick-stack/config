@@ -1,0 +1,8 @@
+# 🇩🇪 Germany — часть 2 | 5 конфигов
+# Обновлено: 2026-03-11 23:17 UTC
+
+vless://b36fa3f7-daff-453a-85a1-429b1b981815@95.85.235.2:8083?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%5B530ms%20NL%20%40vlesstrojan%5D  # 497.7ms  # SC:OK
+vless://d35db0ad-224c-4bf2-9ddc-f72eb26d3938@87.106.189.9:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=h21nIjwib-HnJm4LOS6s80wmiAmib0WF2-qEe9qYg1M&sid=2d05&spx=%2F#%5B567ms%20EE%20%40vlesstrojan%5D  # 518.1ms  # SC:OK
+vless://b36fa3f7-daff-453a-85a1-429b1b981815@95.85.235.2:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%5B356ms%20NO%20%40vlesstrojan%5D  # 583.1ms  # SC:OK
+vless://b36fa3f7-daff-453a-85a1-429b1b981815@95.85.235.2:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=main.tortvpnbot.world&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8#%5B281ms%20NO%20%40vlesstrojan%5D  # 1512.1ms  # SC:OK
+vless://b36fa3f7-daff-453a-85a1-429b1b981815@95.85.235.2:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%5B492ms%20AT%20%40vlesstrojan%5D  # 2507.0ms  # SC:OK
