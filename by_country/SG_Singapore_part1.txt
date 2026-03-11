@@ -1,0 +1,4 @@
+# 🇸🇬 Singapore — часть 1 | 1 конфигов
+# Обновлено: 2026-03-11 23:17 UTC
+
+vless://847975b8-6bd5-4904-de77-6b5590800f5d@47.236.152.192:46137?encryption=none&type=tcp&security=none#%5B209ms%20DE%20%40vlesstrojan%5D  # 820.1ms  # SC:OK
