@@ -1,7 +1,5 @@
-# 🇪🇸 Spain — часть 1 | 4 конфигов
-# Обновлено: 2026-03-11 23:28 UTC
+# 🇪🇸 Spain — часть 1 | 2 конфигов
+# Обновлено: 2026-03-11 23:41 UTC
 
-vless://21915536-afb5-4a0c-b047-fcf549d3a173@madrid-meow.nethcloud.top:443?type=tcp&security=reality&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&sni=wikihow.com&path=&host=#%5B543ms%20AT%20%40vlesstrojan%5D  # 399.4ms  # SC:OK
-vless://034a8ae2-9565-474c-9e91-c0f3a53326cc@ukraine.vles.space:443?type=grpc&security=reality&fp=qq&pbk=i6RhAacmsfIPBZ_hYjMJOG4m_k64fx3RvAyRWdi54QU&sid=7c8d4347178398b4&sni=pp.userapi.com&mode=multi&serviceName=pp-api&authority=#%5B1505ms%20BE%20%40vlesstrojan%5D  # 562.5ms  # SC:OK
-vless://38e0568d-d405-440d-8041-0e6c923a803d@212.227.95.106:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=XxphGtGbyJegOM0QIy65eyC8g3dzlKOMY0tWFBnTCWc&sid=a0cb&spx=%2F#%5B523ms%20GB%20%40vlesstrojan%5D  # 638.4ms  # SC:OK
-vless://438f81f8-aa18-4261-820a-87ee42122d0e@212.227.95.106:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=XxphGtGbyJegOM0QIy65eyC8g3dzlKOMY0tWFBnTCWc&sid=a0cb&spx=%2F#%5B544ms%20ES%20%40vlesstrojan%5D  # 684.2ms  # SC:OK
+vless://21915536-afb5-4a0c-b047-fcf549d3a173@madrid-meow.nethcloud.top:443?type=tcp&security=reality&fp=chrome&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&sid=8bd29483ded126b4&sni=wikihow.com&path=&host=#%5B543ms%20AT%20%40vlesstrojan%5D  # 405.3ms  # SC:OK
+vless://438f81f8-aa18-4261-820a-87ee42122d0e@212.227.95.106:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=XxphGtGbyJegOM0QIy65eyC8g3dzlKOMY0tWFBnTCWc&sid=a0cb&spx=%2F#%5B544ms%20ES%20%40vlesstrojan%5D  # 643.7ms  # SC:OK
