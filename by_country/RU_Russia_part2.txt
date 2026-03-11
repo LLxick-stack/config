@@ -1,0 +1,12 @@
+# 🇷🇺 Russia — часть 2 | 9 конфигов
+# Обновлено: 2026-03-11 23:17 UTC
+
+vless://36625719-9db3-4440-9ad3-33e1e4731314@msk-2.veroid.net:19021?type=ws&security=none&encryption=none&host=www.nintendogames.net#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20YA  # 323.8ms  # SC:OK
+vless://b36fa3f7-daff-453a-85a1-429b1b981815@178.154.219.228:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA  # 330.6ms  # SC:OK
+vless://b36fa3f7-daff-453a-85a1-429b1b981815@158.160.138.31:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%5B349ms%20FR%20%40vlesstrojan%5D  # 331.6ms  # SC:OK
+vless://b36fa3f7-daff-453a-85a1-429b1b981815@178.154.219.228:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%5B423ms%20ES%20%40vlesstrojan%5D  # 581.9ms  # SC:OK
+vless://b36fa3f7-daff-453a-85a1-429b1b981815@178.154.196.224:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20YA  # 583.5ms  # SC:OK
+vless://b36fa3f7-daff-453a-85a1-429b1b981815@178.154.196.224:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%5B598ms%20AT%20%40vlesstrojan%5D  # 617.5ms  # SC:OK
+vless://b36fa3f7-daff-453a-85a1-429b1b981815@158.160.138.31:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%5B577ms%20AT%20%40vlesstrojan%5D  # 730.6ms  # SC:OK
+vless://b36fa3f7-daff-453a-85a1-429b1b981815@158.160.138.31:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20YA  # 1094.2ms  # SC:OK
+vless://340a3bba-6dca-4bcd-b7ce-6ecd4585faa0@v3.filesdownloader.ru:6784?type=xhttp&security=reality&encryption=none&fp=firefox&pbk=LRAFOiJmqIVMJu9pr1LG4WnaWHJHDtT-vnTHL9iFT3M&sid=578fe8&sni=vk.com&host=vk.com&mode=auto&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK  # 4460.3ms  # SC:OK
