@@ -1,14 +1,13 @@
-# 🇫🇮 Finland — часть 1 | 11 конфигов
-# Обновлено: 2026-03-11 23:17 UTC
+# 🇫🇮 Finland — часть 1 | 10 конфигов
+# Обновлено: 2026-03-11 23:28 UTC
 
-vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@fi.prod.n7.homes:8444?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&type=xhttp&path=%2F#%5B948ms%20NL%20%40vlesstrojan%5D  # 117.6ms  # SC:OK
-vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@fi.prod.n7.homes:8444?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&type=xhttp&path=%2F#%5B356ms%20NL%20%40vlesstrojan%5D  # 135.7ms  # SC:OK
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@ficdn16.suio.me:443?type=tcp&security=tls&fp=chrome&sni=ficdn16.suio.me#%5B1336ms%20CH%20%40vlesstrojan%5D  # 143.9ms  # SC:OK
-vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@45.144.53.229:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=ficdn16.suio.me#%5B1389ms%20NO%20%40vlesstrojan%5D  # 166.7ms  # SC:OK
-vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@fi.prod.n7.homes:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&spx=%2F&type=tcp#%5B519ms%20NL%20%40vlesstrojan%5D  # 202.3ms  # SC:OK
-vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@fi.prod.n7.homes:8443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&spx=/#%5B471ms%20ES%20%40vlesstrojan%5D  # 227.1ms  # SC:OK
-vless://a001c9c4-ece2-4dc1-9658-cbad90fcd2e0@finland.tortvpnbot.world:8080?type=tcp&security=reality&encryption=none&fp=chrome&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8&sid=&sni=main.tortvpnbot.world#%5B592ms%20NL%20%40vlesstrojan%5D  # 343.9ms
-vless://bd3649eb-1f72-4629-8d20-ee640b03f0e1@45.12.135.99:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=tMbRR1FTvBecmMv3GLv50T21hXHqHxulqWBKwNEW50Q&sid=822d&spx=%2F#%5B586ms%20NL%20%40vlesstrojan%5D  # 351.1ms  # SC:OK
-vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&sid=365c07ed&spx=%2F#%5B406ms%20NL%20%40vlesstrojan%5D  # 370.5ms  # SC:OK
-vless://c5fcc644-839d-4fbd-a2ee-421ca728751a@45.12.135.99:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=tMbRR1FTvBecmMv3GLv50T21hXHqHxulqWBKwNEW50Q&sid=822d&spx=%2F#%5B575ms%20NL%20%40vlesstrojan%5D  # 378.4ms  # SC:OK
-vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@fi.kv.prod.n7.homes:8443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com#%5B1877ms%20BE%20%40vlesstrojan%5D  # 454.6ms  # SC:OK
+vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@fi.prod.n7.homes:8444?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&type=xhttp&path=%2F#%5B356ms%20NL%20%40vlesstrojan%5D  # 132.6ms  # SC:OK
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@45.144.53.229:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=ficdn16.suio.me#%5B1389ms%20NO%20%40vlesstrojan%5D  # 161.2ms  # SC:OK
+vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@fi.prod.n7.homes:8444?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&type=xhttp&path=%2F#%5B948ms%20NL%20%40vlesstrojan%5D  # 162.1ms  # SC:OK
+vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@ficdn16.suio.me:443?type=tcp&security=tls&fp=chrome&sni=ficdn16.suio.me#%5B1336ms%20CH%20%40vlesstrojan%5D  # 165.2ms  # SC:OK
+vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@fi.prod.n7.homes:8443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&spx=/#%5B471ms%20ES%20%40vlesstrojan%5D  # 219.4ms  # SC:OK
+vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@fi.prod.n7.homes:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&spx=%2F&type=tcp#%5B519ms%20NL%20%40vlesstrojan%5D  # 223.4ms  # SC:OK
+vless://c5fcc644-839d-4fbd-a2ee-421ca728751a@45.12.135.99:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=tMbRR1FTvBecmMv3GLv50T21hXHqHxulqWBKwNEW50Q&sid=822d&spx=%2F#%5B575ms%20NL%20%40vlesstrojan%5D  # 336.0ms  # SC:OK
+vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=google.com&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&sid=365c07ed&spx=%2F#%5B406ms%20NL%20%40vlesstrojan%5D  # 357.6ms  # SC:OK
+vless://bd3649eb-1f72-4629-8d20-ee640b03f0e1@45.12.135.99:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=tMbRR1FTvBecmMv3GLv50T21hXHqHxulqWBKwNEW50Q&sid=822d&spx=%2F#%5B586ms%20NL%20%40vlesstrojan%5D  # 457.8ms  # SC:OK
+vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@fi.kv.prod.n7.homes:8443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com#%5B1877ms%20BE%20%40vlesstrojan%5D  # 573.7ms  # SC:OK
