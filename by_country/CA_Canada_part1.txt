@@ -1,5 +1,6 @@
-# 🇨🇦 Canada — часть 1 | 2 конфигов
-# Обновлено: 2026-03-11 23:28 UTC
+# 🇨🇦 Canada — часть 1 | 3 конфигов
+# Обновлено: 2026-03-11 23:41 UTC
 
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@vip3.kaixincloud.top:80?type=ws&encryption=none&host=vip.yaml7.ggff.net&path=%2F&headerType=none&quicSecurity=none&serviceName=&security=&fp=chrome&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D  # 202.8ms
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?encryption=none&type=grpc&security=tls&mode=gun&sni=pqh30v5.carwashipdir.shop&alpn=h2#%5B83ms%20AT%20%40vlesstrojan%5D  # 491.9ms
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@vip3.kaixincloud.top:80?type=ws&encryption=none&host=vip.yaml7.ggff.net&path=%2F&headerType=none&quicSecurity=none&serviceName=&security=&fp=chrome&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D  # 180.8ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?encryption=none&type=grpc&security=tls&mode=gun&sni=pqh30v5.carwashipdir.shop&alpn=h2#%5B83ms%20AT%20%40vlesstrojan%5D  # 519.7ms  # SC:OK
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?encryption=none&type=grpc&security=tls&mode=gun&sni=pqh29v7.carwashipdir.shop&alpn=h2#%5B136ms%20DE%20%40vlesstrojan%5D  # 528.3ms
