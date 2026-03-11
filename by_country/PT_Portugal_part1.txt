@@ -1,4 +1,4 @@
 # 🇵🇹 Portugal — часть 1 | 1 конфигов
-# Обновлено: 2026-03-11 23:17 UTC
+# Обновлено: 2026-03-11 23:28 UTC
 
-vless://f651b25b-0a6a-4954-910f-7c07a1f6f664@31.129.22.64:47910?encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=UfNUyUPOiqRvjHvk4d5M1x8MTzYxDzb810fGH9CB_kQ&sid=d194cf18101d98de&spx=%2F#%5B502ms%20DE%20%40vlesstrojan%5D  # 666.2ms  # SC:OK
+vless://f651b25b-0a6a-4954-910f-7c07a1f6f664@31.129.22.64:47910?encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=UfNUyUPOiqRvjHvk4d5M1x8MTzYxDzb810fGH9CB_kQ&sid=d194cf18101d98de&spx=%2F#%5B502ms%20DE%20%40vlesstrojan%5D  # 698.0ms  # SC:OK
