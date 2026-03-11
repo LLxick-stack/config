@@ -1,6 +1,6 @@
 # 🇳🇴 Norway — часть 1 | 3 конфигов
-# Обновлено: 2026-03-11 23:28 UTC
+# Обновлено: 2026-03-11 23:41 UTC
 
-vless://4311aa80-7260-45e7-93bb-417a52324a0f@85.136.81.101:8443?flow=&serviceName=grpc&type=grpc#%5B109ms%20ES%20%40vlesstrojan%5D  # 238.1ms  # SC:OK
-vless://4311aa80-7260-45e7-93bb-417a52324a0f@85.136.81.101:8443?encryption=none&security=none&type=grpc&authority=&serviceName=grpc&mode=gun#%5B111ms%20DE%20%40vlesstrojan%5D  # 239.4ms  # SC:OK
-vless://4311aa80-7260-45e7-93bb-417a52324a0f@85.136.81.101:8443?flow=&packetEncoding=xudp&serviceName=grpc&type=grpc#%5B111ms%20ES%20%40vlesstrojan%5D  # 251.6ms  # SC:OK
+vless://4311aa80-7260-45e7-93bb-417a52324a0f@85.136.81.101:8443?flow=&packetEncoding=xudp&serviceName=grpc&type=grpc#%5B111ms%20ES%20%40vlesstrojan%5D  # 245.0ms  # SC:OK
+vless://4311aa80-7260-45e7-93bb-417a52324a0f@85.136.81.101:8443?encryption=none&security=none&type=grpc&authority=&serviceName=grpc&mode=gun#%5B111ms%20DE%20%40vlesstrojan%5D  # 245.3ms  # SC:OK
+vless://4311aa80-7260-45e7-93bb-417a52324a0f@85.136.81.101:8443?flow=&serviceName=grpc&type=grpc#%5B109ms%20ES%20%40vlesstrojan%5D  # 249.7ms  # SC:OK
