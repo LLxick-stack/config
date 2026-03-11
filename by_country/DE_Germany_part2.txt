@@ -1,7 +1,4 @@
-# 🇩🇪 Germany — часть 2 | 4 конфигов
-# Обновлено: 2026-03-11 23:28 UTC
+# 🇩🇪 Germany — часть 2 | 1 конфигов
+# Обновлено: 2026-03-11 23:41 UTC
 
-vless://b36fa3f7-daff-453a-85a1-429b1b981815@95.85.235.2:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=main.tortvpnbot.world&pbk=w28tNIWZCfW4X9aQDLwXECK3pU59zihJ0GIMA13u5X8#%5B281ms%20NO%20%40vlesstrojan%5D  # 511.4ms  # SC:OK
-vless://0d328214-7ebc-413a-9820-2260b38d2242@152.53.116.71:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=L0T7BLyB6gtVckvnxryaK-GGd2XwgoJ3YFM9M8kXmho&sid=7554&spx=%2F#%5B485ms%20ES%20%40vlesstrojan%5D  # 563.1ms  # SC:OK
-vless://b36fa3f7-daff-453a-85a1-429b1b981815@95.85.235.2:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%5B356ms%20NO%20%40vlesstrojan%5D  # 640.8ms  # SC:OK
-vless://b36fa3f7-daff-453a-85a1-429b1b981815@95.85.235.2:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%5B492ms%20AT%20%40vlesstrojan%5D  # 813.0ms  # SC:OK
+vless://b36fa3f7-daff-453a-85a1-429b1b981815@95.85.235.2:8080?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#%5B492ms%20AT%20%40vlesstrojan%5D  # 965.0ms  # SC:OK
