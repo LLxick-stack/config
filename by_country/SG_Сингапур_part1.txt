@@ -1,1 +1,1 @@
-vless://847975b8-6bd5-4904-de77-6b5590800f5d@47.236.152.192:46137?encryption=none&type=tcp&security=none#%F0%9F%87%B8%F0%9F%87%AC %D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80
+vless://ca0e8520-42cd-49db-cfec-1295834b9e21@47.82.1.12:59100?encryption=none&type=tcp&security=none#%F0%9F%87%B8%F0%9F%87%AC %D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80
