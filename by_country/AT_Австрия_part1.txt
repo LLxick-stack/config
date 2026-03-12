@@ -1,2 +1,1 @@
-vless://899251ca-be66-4d21-84d8-bd7fbf10150b@195.133.88.238:61809?encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=0Orr9QAz2hKT1K6aKa64azrlgdh4DMkwvTRg1FacNAI&sid=741a96cc25132fe3#%F0%9F%87%A6%F0%9F%87%B9 %D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F
-vless://899251ca-be66-4d21-84d8-bd7fbf10150b@195.133.88.238:61809?encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=0Orr9QAz2hKT1K6aKa64azrlgdh4DMkwvTRg1FacNAI&sid=741a96cc25132fe3#%F0%9F%87%A6%F0%9F%87%B9 %D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F
+vless://13a1a860-4fd0-4007-86c7-c4b9a3580286@91.244.70.205:443?security=none&type=ws&headerType=&path=/&host=#%F0%9F%87%A6%F0%9F%87%B9 %D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F
