@@ -1,1 +1,1 @@
-vless://13a1a860-4fd0-4007-86c7-c4b9a3580286@91.244.70.205:443?security=none&type=ws&headerType=&path=/&host=#%F0%9F%87%A6%F0%9F%87%B9 %D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.104.63.202:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.fgfw.cc.cd&type=ws&headerType=none&host=snippet.fgfw.cc.cd&path=%2Fdanfeng#%F0%9F%87%A6%F0%9F%87%B9 %D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F
