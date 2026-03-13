@@ -1,5 +1,11 @@
-# VLESS configs | 2026-03-13 08:47 UTC
-# Total: 2 | Supercell OK: 2
+# VLESS configs | 2026-03-13 09:20 UTC
+# Total: 8 | Supercell OK: 6
 
-vless://bbd4e4e9-b56f-4b0d-a85b-9eb5aa65644c@91.242.229.129:4443?encryption=none&type=tcp&security=tls&sni=nl18.fastlanehosting.ru&alpn=h2%2Chttp%2F1.1#%5B244ms%20ES%20%40vlesstrojan%5D  # 230.4ms  # SC:OK  # 🇳🇱NL
-vless://8ae2f8dc-0207-4dfc-8e9d-81ca0bf914f8@84.201.172.57:8443?encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=9xutLI0-ArXpx6yTGJIIKakQz7UbjHINp6qSTJVJnkI&sid=87e041&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA  # 299.1ms  # SC:OK  # 🇷🇺RU
+vless://bbd4e4e9-b56f-4b0d-a85b-9eb5aa65644c@91.242.229.129:4443?encryption=none&type=tcp&security=tls&sni=nl18.fastlanehosting.ru&alpn=h2%2Chttp%2F1.1#%5B219ms%20ES%20%40vlesstrojan%5D  # 240.7ms  # SC:OK  # 🇳🇱NL
+vless://e01c0af7-f9d0-4ef3-be85-57268c462739@84.201.172.57:443?encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=us7S6PJWZjvTlU_75tgCnnDdWZ83Wdwp44nNvVEWJ2M&sid=cd4fe5335832&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20YA  # 246.8ms  # 🇷🇺RU
+vless://95065b89-f94c-45d4-b812-4aa2d75dd96b@51.250.118.251:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-gg&fp=chrome&sni=www.google.com&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=ab#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA  # 259.8ms  # SC:OK  # 🇷🇺RU
+vless://e81a36d5-b3c3-48e0-bf08-d8938a247391@194.85.249.173:433?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=www.google.com&pbk=LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc&sid=d239de8e#%5B242ms%20ES%20%40vlesstrojan%5D  # 260.8ms  # SC:OK  # 🇳🇱NL
+vless://8ae2f8dc-0207-4dfc-8e9d-81ca0bf914f8@84.201.172.57:8443?encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=9xutLI0-ArXpx6yTGJIIKakQz7UbjHINp6qSTJVJnkI&sid=87e041&spx=%2F#%5B347ms%20ES%20%40vlesstrojan%5D  # 562.8ms  # SC:OK  # 🇷🇺RU
+vless://8ae2f8dc-0207-4dfc-8e9d-81ca0bf914f8@84.201.172.57:8443?encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=9xutLI0-ArXpx6yTGJIIKakQz7UbjHINp6qSTJVJnkI&sid=87e041&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA  # 567.1ms  # SC:OK  # 🇷🇺RU
+vless://95065b89-f94c-45d4-b812-4aa2d75dd96b@51.250.118.251:6443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-x5&fp=random&sni=travel.yandex.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789#%5B312ms%20FR%20%40vlesstrojan%5D  # 2216.4ms  # SC:OK  # 🇷🇺RU
+vless://e01c0af7-f9d0-4ef3-be85-57268c462739@84.201.172.57:443?encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=us7S6PJWZjvTlU_75tgCnnDdWZ83Wdwp44nNvVEWJ2M&sid=cd4fe5335832&spx=%2F#%5B314ms%20BE%20%40vlesstrojan%5D  # 7533.2ms  # 🇷🇺RU
