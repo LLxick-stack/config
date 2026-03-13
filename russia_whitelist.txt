@@ -1,1 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.241.198.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#104.28.161.41
+vless://19135f1a-4b6b-07d0-9562-aa3050e4ea4d@lk-cdn.deploy-assure.ru:443?encryption=none&type=ws&path=//&security=tls&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1&mux=4#83.166.239.39
