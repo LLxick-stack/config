@@ -1,1 +1,2 @@
 https://t.me/socks?server=138.124.51.164&port=1080&user=LLxick&pass=LLxick
+tg://proxy?server=138.124.51.164&port=8888&secret=9d8c0a7ac65ddc6a63e8c7ac980da324
